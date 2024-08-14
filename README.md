@@ -13,6 +13,6 @@ This is a fan-made custom skin for the **Attack Shark X6** mouse software. I cre
 
 #### Preview:
 
-![Attack Shark X6 Custom Skin](.img.png)
+![Attack Shark X6 Custom Skin](/img.png)
 
 Feel free to use or modify this skin as you like. If you encounter any issues, feel free to reach out via GitHub.
